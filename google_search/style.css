@@ -1,0 +1,82 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.small{
+    width: 7%;
+}
+
+.medium{
+    width: 50%;
+}
+
+#isimg{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+#asimg{
+    margin: 3px;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.listinput{
+    width: 50%;
+}
+
+.inputpadding{
+    padding: 0px 200px;
+    margin-left: 50;
+}
+
+a{
+    position: absolute;
+    left: 86%;
+    top: 10px;
+}
+
+#gilink{
+    left: 88%;
+}
+
+#aslink{
+    left: 75%;
+}
+
+button{
+    position: relative;
+    top: 50px;
+    left: 48%;
+}
+
+#assubmit{
+    left: -160px;
+}
+
+.heading{
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+}
+
+h5{
+    font-family: Arial, sans-serif;
+    color: #d93025;
+    margin: 25px 45px;
+    font-size: 25;
+}
+
+#find{
+    margin: 50px 0px 30px 50px;
+}
+
+.list{
+    line-height: 40px;
+    font-size: 10px;
+}
